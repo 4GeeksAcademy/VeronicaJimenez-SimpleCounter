@@ -10,3 +10,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.Counter {
+    background-color: black;
+    color: white;
+    text-align: center;    
+}
+.Counter div {
+    display: inline-block;
+    background-color: rgb(17, 17, 17);
+    padding: 10px 20px 10px 20px; 
+    font-size: 30px;  
+    margin: 10px;
+}
